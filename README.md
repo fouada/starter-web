@@ -2,7 +2,7 @@
 
 
 This is a sample website project for
-Showing how to use Git and Git and Github together. 
+Showing how to use Git and Git and Github together. Adding a line for rebasing example.
 
 ## Introduction
 
